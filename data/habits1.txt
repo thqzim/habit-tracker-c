@@ -1,6 +1,6 @@
-do eo a|1|1
-afpp1|1|1
-ea|0|0
-go to school|0|0
-toao|0|0
-rkrarka|0|0
+Go to school|1|1
+Eat lunch|1|1
+Wash clothes|0|0
+Dry hair|0|0
+Pick clothes|0|0
+Do dishes|0|0
